@@ -20,7 +20,7 @@ namespace MyFirstConsoleApp
             {
                 Console.WriteLine("x is 3 and the name is Joe");
             }
-            Console.WriteLine("this line tuns no matter what");
+            Console.WriteLine("this line runs no matter what");
         }
 
         private static void TryAnIfElse()
